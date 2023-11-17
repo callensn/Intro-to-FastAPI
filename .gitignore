@@ -1,0 +1,2 @@
+# Don't store the virtual environment in git
+.venv
